@@ -1,0 +1,13 @@
+------------------------------------------- 
+|     STAT NAME    | SUBJECT  | STAT VALUE|
+------------------------------------------- 
+|Minimum           | Maths    |1          |
+|Maximum           | Maths    |98         |
+|Median            | Maths    |49         |
+|Mean              | Maths    |51.21      |
+|Variance          | Maths    |860.753    |
+|Standard Deviation| Maths    |29.3386    |
+|Correlation       | Maths    |-0.124345  |
+---------------------------------------------- 
+|Regression Line   | Maths    |y=mx+58.3237  |
+---------------------------------------------- 
