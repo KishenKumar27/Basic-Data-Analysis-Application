@@ -52,7 +52,6 @@ Basic-Data-Analysis-Application/
 │
 ├── .gitignore
 ├── README.md
-└── Group11.txt
 ```
 
 ## Features
