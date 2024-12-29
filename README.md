@@ -81,7 +81,7 @@ Basic-Data-Analysis-Application/
    git clone https://github.com/KishenKumar27/Basic-Data-Analysis-Application.git
    ```
 
-2  Navigate to the specific folder
+2. Navigate to the specific folder
    ```bash
    cd Source Codes/BasicDataAnalysisProgram
    ```
