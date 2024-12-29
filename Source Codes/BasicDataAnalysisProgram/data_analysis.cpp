@@ -39,7 +39,7 @@ double findMinimum_c( vector<int>, int);    int Minimum_Value_Malay();
 double findMaximum_a( vector<int>, int);    int Maximum_Value_Maths();
 double findMaximum_b( vector<int>, int);    int Maximum_Value_Science();
 double findMaximum_c( vector<int>, int);    int Maximum_Value_Malay();
-//Pearson’s Correlation
+//Pearsonâ€™s Correlation
 float correlationCoefficient_a(vector<int>, vector<int>, vector<int>, int);  int correlationCoefficient_Maths();
 float correlationCoefficient_b(vector<int>, vector<int>, vector<int>, int);  int correlationCoefficient_BS();
 float correlationCoefficient_c(vector<int>, vector<int>, vector<int>, int);  int correlationCoefficient_MB();
