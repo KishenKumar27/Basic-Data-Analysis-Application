@@ -6,49 +6,54 @@ This repository contains a C++ application designed for basic data analysis. It 
 
 The project consists of the following directories and files:
 
-- **Flowchart**
-  - Flowchart-tc01-1181102720-part1.pdf
-  - Frequency.rap
-  - Linear Regression Line.rap
-  - Pearson's Correlation.rap
-  - Statistical_Report_Html.html
-  - Statistical_Report_Txt.txt
-  - abovem.rap
-  - application.rap
-  - applicationStatsReportHtml.rap
-  - applicationStatsReportTxt.rap
-  - ascending.rap
-  - belowm.rap
-  - data.csv
-  - descending.rap
-  - frequency200911a.rap
-  - mean.rap
-  - median.rap
-  - minimum200911a.rap
-
-- **Part 1**
-  - PF Assignment Part 1.pdf
-  - Problem Statement.docx
-
-- **Part 2**
-  - 353703_Assignment Part 2 Submission.docx
-  - PF ASSIGNMENT PART 2.docx
-
-- **Source Codes**
-  - **BasicDataAnalysisProgram**
-    - data10.txt
-    - data100.csv
-    - data_analysis.cpp
-    - outok.txt
-    - outok2.html
-
-- **Task**
-  - 345813_TCP1101 Assignment.pdf
-  - Briefing Link.docx
-  - data100.csv
-
-- **.gitignore**
-- **README.md**
+```bash
+Basic-Data-Analysis-Application/
+│
+├── Flowchart/
+│   ├── Flowchart-tc01-1181102720-part1.pdf
+│   ├── Frequency.rap
+│   ├── Linear Regression Line.rap
+│   ├── Pearson's Correlation.rap
+│   ├── Statistical_Report_Html.html
+│   ├── Statistical_Report_Txt.txt
+│   ├── abovem.rap
+│   ├── application.rap
+│   ├── applicationStatsReportHtml.rap
+│   ├── applicationStatsReportTxt.rap
+│   ├── ascending.rap
+│   ├── belowm.rap
+│   ├── data.csv
+│   ├── descending.rap
+│   ├── frequency200911a.rap
+│   ├── mean.rap
+│   ├── median.rap
+│   └── minimum200911a.rap
+│
+├── Part 1/
+│   ├── PF Assignment Part 1.pdf
+│   └── Problem Statement.docx
+│
+├── Part 2/
+│   ├── 353703_Assignment Part 2 Submission.docx
+│   └── PF ASSIGNMENT PART 2.docx
+│
+├── Source Codes/
+│   └── BasicDataAnalysisProgram/
+│       ├── data10.txt
+│       ├── data100.csv
+│       ├── data_analysis.cpp
+│       ├── outok.txt
+│       └── outok2.html
+│
+├── Task/
+│   ├── 345813_TCP1101 Assignment.pdf
+│   ├── Briefing Link.docx
+│   └── data100.csv
+│
+├── .gitignore
+├── README.md
+└── Group11.txt
+```
 
 ## Features
 
@@ -77,7 +82,7 @@ The project consists of the following directories and files:
    git clone https://github.com/KishenKumar27/Basic-Data-Analysis-Application.git
    ```
 
-2 Navigate to the specific folder
+2  Navigate to the specific folder
    ```bash
    cd Source Codes/BasicDataAnalysisProgram
    ```
